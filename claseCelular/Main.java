@@ -1,4 +1,4 @@
-package clasePOO;
+package claseCelular;
 
 import java.util.Scanner;
 
